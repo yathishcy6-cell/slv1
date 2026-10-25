@@ -1,0 +1,9 @@
+{
+  "name": "Hunter System",
+  "short_name": "Hunter",
+  "description": "Level up your real-life quests.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080e17",
+  "theme_color": "#0a111c"
+}
